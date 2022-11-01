@@ -1,0 +1,96 @@
+html{
+    height: 1728px;
+    width: 1117px;
+    background-color: aquamarine;
+    color: aliceblue;
+}
+.block{
+    height: 908px;
+    width: 1489px;
+    background-color: rgb(45, 40, 78);
+    position: absolute;
+    left: 98px;
+    right: 141px;
+    top: 105px;
+    bottom: 104px;  
+}
+.block1{
+    height: 60px;
+    width: 99px;
+    background-color: brown;
+    position: absolute;
+    left: 151px;
+    right: 1478px;
+    top: 128px;
+    bottom: 929px; 
+}
+.block2{
+    height: 24px;
+    width: 70px;
+    background-color: rgb(42, 147, 165);
+    position: absolute;
+    left: 503px;
+    right: 1155px;
+    top: 146px;
+    bottom: 947px;   
+}
+.block3{
+    height: 24px;
+    width: 81px;
+    background-color: rgb(42, 147, 165);
+    position: absolute;
+    left: 617px;
+    right: 1030px;
+    top: 146px;
+    bottom: 947px;   
+}
+.block4{
+    height: 24px;
+    width: 64px;
+    background-color: rgb(42, 147, 165);
+    position: absolute;
+    left: 734px;
+    right: 930px;
+    top: 146px;
+    bottom: 947px;   
+}
+.block5{
+    height: 24px;
+    width: 49px;
+    background-color: rgb(42, 147, 165);
+    position: absolute;
+    left: 846px;
+    right: 833px;
+    top: 146px;
+    bottom: 947px;   
+}
+.block6{
+    height: 24px;
+    width: 43px;
+    background-color: rgb(42, 147, 165);
+    position: absolute;
+    left: 1363px;
+    right: 322px;
+    top: 146px;
+    bottom: 947px;   
+}
+.block7{
+    height: 46px;
+    width: 125px;
+    background-color: rgb(42, 147, 165);
+    position: absolute;
+    left: 1431px;
+    right: 172px;
+    top: 135px;
+    bottom: 936px;   
+}
+.block8{
+    height: 24px;
+    width: 43px;
+    background-color: rgb(165, 163, 42);
+    position: absolute;
+    left: 1460px;
+    right: 202px;
+    top: 146px;
+    bottom: 947px;   
+}
