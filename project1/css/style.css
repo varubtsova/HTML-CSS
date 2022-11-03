@@ -1,0 +1,23 @@
+body{
+   background-image: url("https://images.wallpaperscraft.ru/image/single/maiak_noch_pejzazh_143019_1280x720.jpg");
+   background-attachment: fixed;
+   background-position: center;
+   background-size: cover;
+}
+.HTML1 {
+    padding-left: 5%;
+    padding-right:30%;
+    padding-top: 2%;
+    padding-bottom: 2%;
+    color: #553a94;
+    font-size: 20px;
+    font-style: italic;
+    font-family:cursive;
+    text-indent: 50px;
+    background-color: blanchedalmond;
+    background-clip:content-box;
+}
+h1, h3{
+    color: rgb(23, 21, 53);
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
