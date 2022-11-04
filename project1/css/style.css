@@ -87,58 +87,48 @@ body{
 }
 .article{
   background: #ebf5be;
-  margin-left: 200px;
-  margin-right: 200px;
+  margin-left: 160px;
+  margin-right: 160px;
   margin-top: 50px;
+  margin-bottom: 50px;
   height: 100%;
   border: 5px solid #193a50;
   border-radius: 40px;
+  text-align: justify;
 }
-.article h1{
-  font-family: 'Comfortaa', cursive;
+.text{
+  border: none;
+  display: inline-block;
+  margin-left: 40px;
+  margin-right: 40px;
+  margin-bottom: 40px;
+  font-family: 'Poiret One', cursive;
+  color: #193a50;
   font-size: 28px;
+}
+.text h1{
+  font-family: 'Comfortaa', cursive;
+  font-size: 36px;
   color: #193a50;
   text-align: center;
   padding-top: 20px;
 }
-.article h3{
+.text h3{
   font-family: 'Poiret One', cursive;
   color: #193a50;
-  font-size: 24px;
+  font-size: 32px;
+  margin-bottom: 20px;
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-.HTML1 {
-    padding-left: 5%;
-    padding-right:30%;
-    padding-top: 2%;
-    padding-bottom: 2%;
-    color: #553a94;
-    font-size: 20px;
-    font-style: italic;
-    font-family:cursive;
-    text-indent: 50px;
-    background-color: blanchedalmond;
-    background-clip:content-box;
+.text img{
+  display: inherit;
+  margin-bottom: 20px;
 }
-h1, h3{
-    color: rgb(23, 21, 53);
-    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+.text p{
+  margin-bottom: 15px;
 }
-
-
-font-family: 'Comfortaa', cursive;
-font-family: 'Poiret One', cursive;
+.footer{
+  display: flex;
+  background: #d84dcc;
+  width: 100px;
+  height: 100px;
+}
